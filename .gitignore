@@ -1,0 +1,24 @@
+
+# server
+
+ops.json
+
+whitelist.json
+
+usercache.json
+usernamecache.json
+
+banned-ips.json
+banned-players.json
+
+mods/disabled/*
+mods/*.disabled
+
+# server generated files
+
+world/*
+trees/*
+logs/*
+.sable/*
+.mixin.out/*
+defaultconfigs/*
